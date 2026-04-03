@@ -1,5 +1,5 @@
 # leechblock-configuration
-Configures leechblock extention to redirect common distracting sites as well as distracting youtube features to a bible randomizer or an embedded youtube video player ([yt embed](https://github.com/SP4CEBARsystems/yt-embed/)).
+Configures leechblock extention to redirect common distracting sites as well as distracting youtube features to a bible randomizer ([randombiblizer](https://randombibleizer.spiffy.tech) to read the bible instead of watching youtube) or an embedded youtube video player ([yt embed](https://github.com/SP4CEBARsystems/yt-embed/) in an effort to stop you from seeing any other videos, but it doesn't block end screens unfortunately).
 
 ## Setup Instructions
 1. Download the [text file from this repository with the configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/LeechBlockOptions-2026-04-03T13-17-09.txt)
