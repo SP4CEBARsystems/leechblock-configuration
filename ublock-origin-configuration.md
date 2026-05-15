@@ -1,5 +1,5 @@
 # uBlock Origin Configuration
-This configuration of mine (see [my filters](#my-filters) below) allows the [uBlock origin](https://ublockorigin.com/) browser extention to block full-screen recommendations for the YouTube website on PC, mobile, and YouTube players embedded into other websites. It is recommended to combine this with browser extentions as [unhook](https://unhook.app/) or [untrap](https://untrap.app/) to block all remaining YouTube recommendations. It is recommended to use this alongside [my leechblock configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/README.md).
+This configuration of mine allows the [uBlock origin](https://ublockorigin.com/) browser extention to block full-screen recommendations for the YouTube website on PC, mobile, and YouTube players embedded into other websites. It is recommended to combine this with browser extentions as [unhook](https://unhook.app/) or [untrap](https://untrap.app/) to block all remaining YouTube recommendations and to use this alongside [my leechblock configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/README.md).
 
 ## Setup guide
 1. Install the [uBlock Origin](https://ublockorigin.com/) browser extention
