@@ -20,23 +20,24 @@ youtube.com##:matches-path(/embed/) .ytFullscreenVideoRecommendationsHost
 - Install the [unhook](https://unhook.app/) or [untrap](https://untrap.app/) browser extention to block all other youtube recommendations.
 - Use [my leechblock configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/README.md) to block the youtube homepage as well as youtube channels and other distractions.
 
-## When used with my leechblock configuration
+## Notes
+### When used with my leechblock configuration
 Note that when using this alongside [my leechblock configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/README.md), you can leave the the leechblock block set that redirects YouTube to a custom embedded player website disabled as the YouTube player itself can now be considered "distraction free".
 
-## How long will it work to banish all of YouTube's recommendations
+### How long will it work to banish all of YouTube's recommendations
 This will work until YouTube changes their UI in a way that introduces new recommendations or changes the css class of them.
 
-## How did I find what youtube classes to block
+### How did I find what youtube classes to block
 If youtube were to change in a way that breaks this blocking setup, you may need to be able to find these classes to block for yourself, below is the instruction to do this. I used the dev tools that come with the Firefox' browser, these are very similar to the dev tools on any other browser, the shortcuts used are likely the same across browsers.
 
-### PC
+#### PC
 - find the youtube page with the browser element you are interested in such as a video page,
 - press `ctrl`+`shift `+`c` to open dev tools,
 - then you can hover the mouse over the element you want to know more about,
 - click it, copy its class name (like `class="ytp-fullscreen-grid-stills-container"` or `.ytp-fullscreen-grid-stills-container`),
 - this can then be written like a ublock filter (like `youtube.com##.ytp-fullscreen-grid-stills-container`) and added to the ublock filter list.
 
-### Mobile
+#### Mobile
 - Use a PC (mobile dev tools browser extentions seem limited in capabillity and a bit clunky to use compared to the PC browsers' built in dev tools),
 - open a browser like firefox
 - press `ctrl`+`shift`+`m`,
