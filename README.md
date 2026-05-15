@@ -17,4 +17,4 @@ Configures leechblock extention to redirect common distracting sites as well as 
 
 ## YT embed (not recommended)
 If you want to redirect all YouTube videos to an embedded YouTube video player you can use [yt embed](https://github.com/SP4CEBARsystems/yt-embed/).
-Note that this doesn't help much in blocking YouTube's recommendations as it doesn't block end screens, and it has a recommendations bar below the video. So I recommend using [my other method](#how-to-block-all-of-youtubes-recommendations) instead.
+Note that this doesn't help much in blocking YouTube's recommendations as it doesn't block end screens, and it has a recommendations bar below the video. So I recommend using [my other method](#how-to-block-all-of-youtubes-recommendations) instead. Also not that an embedded player is logged out to YouTube so you can not save a video to playlists or place comments.
