@@ -27,7 +27,7 @@ If youtube were to change in a way that breaks this blocking setup, you may need
 
 ### PC
 - find the youtube page with the browser element you are interested in such as a video page,
-- hold: `ctrl`+`shift `+`c` to open dev tools,
+- press `ctrl`+`shift `+`c` to open dev tools,
 - then you can hover the mouse over the element you want to know more about,
 - click it, copy its class name (like `class="ytp-fullscreen-grid-stills-container"` or `.ytp-fullscreen-grid-stills-container`),
 - this can then be written like a ublock filter (like `youtube.com##.ytp-fullscreen-grid-stills-container`) and added to the ublock filter list.
