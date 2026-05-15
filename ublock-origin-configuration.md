@@ -37,6 +37,6 @@ If youtube were to change in a way that breaks this blocking setup, you may need
 - open a browser like firefox
 - press `ctrl`+`shift`+`m`,
 - Find the menu to emulate a device, it is likely on the top left of your screen
-- choose to emulate a mobile device (like a "galaxy note 7" but not a "180p Full HD Television") 
+- choose to emulate a mobile device (like a "galaxy note 7" but not a "1080p Full HD Television") 
 - set the url of the page with the mobile device emulation to https://m.youtube.com (mobile phone youtube),
 - continue with [the steps above (under "PC")](#pc)
