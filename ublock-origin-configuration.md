@@ -9,12 +9,16 @@ This configuration of mine (see [my filters](#my-filters) below) allows the [uBl
 5. Paste the code below (see [my filters](#my-filters)) in the big text field
 6. Click `Apply changes` to save
 
-## My filters
+### My filters
 ```
 youtube.com##.ytp-fullscreen-grid-stills-container
 m.youtube.com##.ytFullscreenVideoRecommendationsHost
 youtube.com##:matches-path(/embed/) .ytFullscreenVideoRecommendationsHost
 ```
+
+### Recommended
+- Install the [unhook](https://unhook.app/) or [untrap](https://untrap.app/) browser extention to block all other youtube recommendations.
+- Use [my leechblock configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/README.md) to block the youtube homepage as well as youtube channels and other distractions.
 
 ## When used with my leechblock configuration
 Note that when using this alongside [my leechblock configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/README.md), you can leave the the leechblock block set that redirects YouTube to a custom embedded player website disabled as the YouTube player itself can now be considered "distraction free".
