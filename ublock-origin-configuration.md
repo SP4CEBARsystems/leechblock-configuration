@@ -9,7 +9,7 @@ This configuration of mine (see [my filters](#my-filters) below) allows the [uBl
 5. Paste the code below (see [my filters](#my-filters)) in the big text field
 6. Click `Apply changes` to save
 
-### My filters
+### My ublock filters
 ```
 youtube.com##.ytp-fullscreen-grid-stills-container
 m.youtube.com##.ytFullscreenVideoRecommendationsHost
