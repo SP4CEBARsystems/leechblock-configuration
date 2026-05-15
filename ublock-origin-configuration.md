@@ -22,8 +22,9 @@ Note that when using this alongside [my leechblock configuration](https://github
 ## How long will it work to banish all of YouTube's recommendations
 This will work until YouTube changes their UI in a way that introduces new recommendations or changes the css class of them.
 
-## How was it made
-It was made using the dev tools that come with the Firefox' browser (very similar to the dev tools on any other browser).
+## How did I find what youtube classes to block
+If youtube were to change in a way that breaks this blocking setup, you may need to be able to find these classes to block for yourself, below is the instruction to do this. I used the dev tools that come with the Firefox' browser, these are very similar to the dev tools on any other browser, the shortcuts used are likely the same across browsers.
+
 ### PC
 - find the youtube page with the browser element you are interested in such as a video page,
 - hold: `ctrl`+`shift `+`c` to open dev tools,
