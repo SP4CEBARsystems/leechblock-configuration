@@ -1,0 +1,17 @@
++lowresnx.inutilis.com/deletepost.php
++lowresnx.inutilis.com/docs
++lowresnx.inutilis.com/edituser.php
++lowresnx.inutilis.com/help.php
++lowresnx.inutilis.com/images
++lowresnx.inutilis.com/login.php
++lowresnx.inutilis.com/player.php
++lowresnx.inutilis.com/posting.php
++lowresnx.inutilis.com/topic.php
++lowresnx.inutilis.com/uploads
++lowresnx.inutilis.com/user.php
+lowresnx.inutilis.com/notifications.php
++reddit.com/r/*/comments
+lowresnx.inutilis.com
+reddit.com
+sp4cebar.com/SC-Bank-Generator
+sp4cebar.com/nx-editor
