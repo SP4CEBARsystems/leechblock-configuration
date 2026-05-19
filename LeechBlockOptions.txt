@@ -46,24 +46,24 @@ showTimer1=true
 allowRefers1=false
 allowKeywords1=false
 waitSecs1=
-sitesURL1=https://drive.google.com/uc?export=download&id=1--ZQh3GDigzE6R3tskk7TNEKAyxxb9kb
+sitesURL1=https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/crave%20list.txt
 regexpBlock1=
 regexpAllow1=
 regexpKeyword1=
 ignoreHash1=true
-setName2=Distracting interests
-sites2=+chatgpt.com/?reason=school +chatgpt.com/c/* chatgpt.com
-times2=
+setName2=no youtube ui
+sites2=*youtube.com +*youtube.com/@ +*youtube.com/account +*youtube.com/analytics +*youtube.com/channel/ +*youtube.com/clip +*youtube.com/embed +*youtube.com/feed +*youtube.com/feed/history +*youtube.com/feed/library +*youtube.com/jubileeOosterhout +*youtube.com/live +*youtube.com/logout +*youtube.com/paid_memberships +*youtube.com/playlist +*youtube.com/redirect +*youtube.com/reporthistory +*youtube.com/results +*youtube.com/shorts +*youtube.com/upload +*youtube.com/watch +music.youtube.com +studio.youtube.com
+times2=0000-2400
 limitMins2=
 limitPeriod2=
 limitOffset2=
 rollover2=false
 conjMode2=false
 days2=127
-blockURL2=https://keep.google.com?user-instruction=write-down-what-you-wanted-to-do
+blockURL2=https://randombibleizer.spiffy.tech/?user-instruction=read-chapter-dont-crave-dopamine
 passwordRequire2=0
 passwordSetSpec2=
-customMsg2=
+customMsg2=https://drive.google.com/drive/folders/11tu0MlhrBhzHiJNgn-njoTWD7Dgo7EhW\n\nhttps://keep.google.com/#NOTE/1Ghl0sozGjCn42fQ898kkPz1d7O2JBv6_PitNV4kOCw40TmeSW-U0AI_KHvtB
 incogMode2=0
 activeTabMode2=0
 applyFilter2=false
@@ -86,7 +86,7 @@ delayCancel2=true
 reloadSecs2=
 addHistory2=false
 allowOverride2=true
-allowOverLock2=true
+allowOverLock2=false
 prevOpts2=false
 prevGenOpts2=false
 prevAddons2=false
@@ -99,20 +99,20 @@ showTimer2=true
 allowRefers2=false
 allowKeywords2=false
 waitSecs2=
-sitesURL2=https://drive.google.com/uc?export=download&id=1v89aswFUFsNbh1LYyh_yeN9YNqrh_1ni
+sitesURL2=https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/block%20youtube%20ui.txt
 regexpBlock2=
 regexpAllow2=
 regexpKeyword2=
 ignoreHash2=true
-setName3=Crave For Games
-sites3=diep.io krunker.io
-times3=
+setName3=don't visit youtube channels
+sites3=*youtube.com/**list=PLrINjT-RUPltqxT9cUlmAeePx5Gm2W9mr *youtube.com/**list=PLrINjT-RUPlu2LPrjnE9vBSgzV-01YemR *youtube.com/**list=PLrINjT-RUPlu63uieoWDRLZmr5BhFmGhh *youtube.com/**list=PLrINjT-RUPlu7A2oDrMb8C4LFsf_9hKHN *youtube.com/**list=PLrINjT-RUPlua6_3hJ9-O-_DZofWZ0yKl *youtube.com/**list=UU1XvxnHFtWruS9egyFasP1Q *youtube.com/**list=WL *youtube.com/@ *youtube.com/channel/ *youtube.com/results?search_query=*collin*furze *youtube.com/results?search_query=*corridor+crew *youtube.com/results?search_query=*corridor+digital *youtube.com/results?search_query=*hacksmith *youtube.com/results?search_query=*kurzgesagt *youtube.com/results?search_query=*spacex *youtube.com/results?search_query=*veritasium *youtube.com/results?search_query=*wai *youtube.com/results?search_query=*what+about+it +*youtube.com/@FrontrunnersMinistries +*youtube.com/@ImpactVideoMinistries +*youtube.com/@JonathanShuttlesworth +*youtube.com/@LivingWaters +*youtube.com/@RobertsLiardon +*youtube.com/@SP4CEBAR +*youtube.com/@jubileeNederland +*youtube.com/@riverchurchnl +*youtube.com/@rodneyhowardbrowne +*youtube.com/channel/UCNtSJKxSW7GsohL8g3aN_Zg +music.youtube.com +studio.youtube.com
+times3=0000-2400
 limitMins3=
 limitPeriod3=
 limitOffset3=
 rollover3=false
 conjMode3=false
-days3=62
+days3=127
 blockURL3=https://randombibleizer.spiffy.tech/?user-instruction=read-chapter-dont-crave-dopamine
 passwordRequire3=0
 passwordSetSpec3=
@@ -139,7 +139,7 @@ delayCancel3=true
 reloadSecs3=
 addHistory3=false
 allowOverride3=true
-allowOverLock3=false
+allowOverLock3=true
 prevOpts3=false
 prevGenOpts3=false
 prevAddons3=false
@@ -152,20 +152,20 @@ showTimer3=true
 allowRefers3=false
 allowKeywords3=false
 waitSecs3=
-sitesURL3=https://drive.google.com/uc?export=download&id=1do7e2oLcy2iODfUDgaXwjn0lAllYKhf1
+sitesURL3=https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/no%20youtube%20channels.txt
 regexpBlock3=
 regexpAllow3=
 regexpKeyword3=
 ignoreHash3=true
-setName4=don't visit youtube channels
-sites4=*youtube.com/@ *youtube.com/channel/ *youtube.com/playlist?list=UU1XvxnHFtWruS9egyFasP1Q *youtube.com/results?search_query=*hacksmith *youtube.com/results?search_query=collin*furze *youtube.com/results?search_query=kurzgesagt *youtube.com/results?search_query=what+about+it +*youtube.com/@FrontrunnersMinistries +*youtube.com/@ImpactVideoMinistries +*youtube.com/@JonathanShuttlesworth +*youtube.com/@LivingWaters +*youtube.com/@RobertsLiardon +*youtube.com/@SP4CEBAR +*youtube.com/@jubileeNederland +*youtube.com/@riverchurchnl +*youtube.com/@rodneyhowardbrowne +music.youtube.com +studio.youtube.com
-times4=0000-2400
+setName4=Crave For Games
+sites4=diep.io krunker.io
+times4=
 limitMins4=
 limitPeriod4=
 limitOffset4=
 rollover4=false
 conjMode4=false
-days4=127
+days4=62
 blockURL4=https://randombibleizer.spiffy.tech/?user-instruction=read-chapter-dont-crave-dopamine
 passwordRequire4=0
 passwordSetSpec4=
@@ -192,7 +192,7 @@ delayCancel4=true
 reloadSecs4=
 addHistory4=false
 allowOverride4=true
-allowOverLock4=true
+allowOverLock4=false
 prevOpts4=false
 prevGenOpts4=false
 prevAddons4=false
@@ -205,7 +205,7 @@ showTimer4=true
 allowRefers4=false
 allowKeywords4=false
 waitSecs4=
-sitesURL4=https://drive.google.com/uc?export=download&id=1kUuAq67Ewd5dOE4z1WLEmMWzcx0o2AXW
+sitesURL4=https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/crave%20game%20list.txt
 regexpBlock4=
 regexpAllow4=
 regexpKeyword4=
@@ -258,13 +258,13 @@ showTimer5=true
 allowRefers5=false
 allowKeywords5=false
 waitSecs5=
-sitesURL5=https://drive.google.com/uc?export=download&id=19-hKg5BOrZv4gOn_eJOAr5z3_fsxTSLC
+sitesURL5=https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/no%20promotion.txt
 regexpBlock5=
 regexpAllow5=
 regexpKeyword5=
 ignoreHash5=true
-setName6=redirect youtube
-sites6=*youtube.com/shorts *youtube.com/watch youtu.be
+setName6=Distracting interests
+sites6=+chatgpt.com/?reason=school +chatgpt.com/c/* chatgpt.com
 times6=
 limitMins6=
 limitPeriod6=
@@ -272,7 +272,7 @@ limitOffset6=
 rollover6=false
 conjMode6=false
 days6=127
-blockURL6=https://sp4cebar.com/yt-embed?minimal=1&u=$U
+blockURL6=https://keep.google.com?user-instruction=write-down-what-you-wanted-to-do
 passwordRequire6=0
 passwordSetSpec6=
 customMsg6=
@@ -298,7 +298,7 @@ delayCancel6=true
 reloadSecs6=
 addHistory6=false
 allowOverride6=true
-allowOverLock6=false
+allowOverLock6=true
 prevOpts6=false
 prevGenOpts6=false
 prevAddons6=false
@@ -311,24 +311,24 @@ showTimer6=true
 allowRefers6=false
 allowKeywords6=false
 waitSecs6=
-sitesURL6=https://drive.google.com/uc?export=download&id=1aIjUBEfYuGfGJCr-rydfCqFaANxPkTBg
+sitesURL6=https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/distraction%20list.txt
 regexpBlock6=
 regexpAllow6=
 regexpKeyword6=
 ignoreHash6=true
-setName7=no youtube ui
-sites7=*youtube.com +*youtube.com/@ +*youtube.com/channel/ +*youtube.com/clip +*youtube.com/embed +*youtube.com/feed +*youtube.com/feed/history +*youtube.com/feed/library +*youtube.com/jubileeOosterhout +*youtube.com/live +*youtube.com/playlist +*youtube.com/redirect +*youtube.com/results +*youtube.com/shorts +*youtube.com/watch +music.youtube.com +studio.youtube.com
-times7=0000-2400
+setName7=redirect youtube
+sites7=*youtube.com/shorts *youtube.com/watch youtu.be
+times7=
 limitMins7=
 limitPeriod7=
 limitOffset7=
 rollover7=false
 conjMode7=false
 days7=127
-blockURL7=https://randombibleizer.spiffy.tech/?user-instruction=read-chapter-dont-crave-dopamine
+blockURL7=https://sp4cebar.com/yt-embed?minimal=1&u=$U
 passwordRequire7=0
 passwordSetSpec7=
-customMsg7=https://drive.google.com/drive/folders/11tu0MlhrBhzHiJNgn-njoTWD7Dgo7EhW\n\nhttps://keep.google.com/#NOTE/1Ghl0sozGjCn42fQ898kkPz1d7O2JBv6_PitNV4kOCw40TmeSW-U0AI_KHvtB
+customMsg7=
 incogMode7=0
 activeTabMode7=0
 applyFilter7=false
@@ -364,7 +364,7 @@ showTimer7=true
 allowRefers7=false
 allowKeywords7=false
 waitSecs7=
-sitesURL7=https://drive.google.com/uc?export=download&id=1LqC3ig4YNSkzxtmFyTqXETB_42HoOEyg
+sitesURL7=https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/YouTube%20Container.txt
 regexpBlock7=
 regexpAllow7=
 regexpKeyword7=
