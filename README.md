@@ -2,7 +2,7 @@
 Configures leechblock extention to redirect common distracting sites as well as distracting YouTube features to a bible randomizer ([randombiblizer](https://randombibleizer.spiffy.tech)) (to read the bible instead of watching YouTube).
 
 ## Setup Instructions
-1. Download the [text file from this repository with the configuration](https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/blob/main/LeechBlockOptions.txt) ([Click here to download the file](https://github.com/SP4CEBARsystems/leechblock-configuration/heads/main/main/LeechBlockOptions.txt))
+1. Download the [text file from this repository with the configuration](https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/LeechBlockOptions.txt) ([view here](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/LeechBlockOptions.txt))
 2. Install the [LeechBlock browser extention](https://www.proginosko.com/leechblock/) for your browser
 3. Open your browser's extentions menu and click on leechblock to open its control panel
 4. Open LeechBlock's options
@@ -30,7 +30,7 @@ A GitHub CDN url may look like the below URL, opening this URL will immediately 
 ```
 https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/no%20youtube%20channels.txt
 ```
-You can convert the first into the second by replacing `https://github.com` with `https://raw.githubusercontent.com` and `/blob` with `/heads/main`. Below is a side by side comparison.
+You can convert the first into the second by replacing `https://github.com` with `https://raw.githubusercontent.com` and `/blob` with `/refs/heads`. Below is a side by side comparison.
 ```
 https://    github           .com/SP4CEBARsystems/leechblock-configuration/blob      /main/filters/no%20youtube%20channels.txt
 https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/filters/no%20youtube%20channels.txt
