@@ -2,7 +2,7 @@
 Configures leechblock extention to redirect common distracting sites as well as distracting YouTube features to a bible randomizer ([randombiblizer](https://randombibleizer.spiffy.tech)) (to read the bible instead of watching YouTube).
 
 ## Setup Instructions
-1. Download the [text file from this repository with the configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/LeechBlockOptions.txt)
+1. Download the [text file from this repository with the configuration](https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/blob/main/LeechBlockOptions.txt) ([Click here to download the file](https://github.com/SP4CEBARsystems/leechblock-configuration/heads/main/main/LeechBlockOptions.txt))
 2. Install the [LeechBlock browser extention](https://www.proginosko.com/leechblock/) for your browser
 3. Open your browser's extentions menu and click on leechblock to open its control panel
 4. Open LeechBlock's options
