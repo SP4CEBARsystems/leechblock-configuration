@@ -1,0 +1,5 @@
+youtube.com##.ytp-fullscreen-grid-stills-container
+m.youtube.com##.ytFullscreenVideoRecommendationsHost
+m.youtube.com##.ytmFullscreenRelatedVideosEntryPointViewModelHost
+youtube.com##:matches-path(/embed/) .ytFullscreenVideoRecommendationsHost
+youtube.com##:matches-path(/embed/) .ytmFullscreenRelatedVideosEntryPointViewModelHost
