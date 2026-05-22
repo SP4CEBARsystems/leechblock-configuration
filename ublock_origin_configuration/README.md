@@ -2,19 +2,14 @@
 This configuration of mine allows the [uBlock origin](https://ublockorigin.com/) browser extention to block full-screen recommendations for the YouTube website on PC, mobile, and YouTube players embedded into other websites. It is recommended to combine this with browser extentions as [unhook](https://unhook.app/) or [untrap](https://untrap.app/) to block all remaining YouTube recommendations and to use this alongside [my leechblock configuration](https://github.com/SP4CEBARsystems/leechblock-configuration/blob/main/README.md).
 
 ## Setup guide
-1. Install the [uBlock Origin](https://ublockorigin.com/) browser extention
-2. Open the extentions panel or open "manage extentions" (which is on [about:addons](about:addons) on browsers like Firefox) then look for uBlock Origin
-3. Go to uBlock's options, you may need to click on a `...` before you can see the `options` button to go there.
-4. Go to the my filters tab
-5. Paste the code below (see [my filters](#my-filters)) in the big text field
-6. Click `Apply changes` to save
-
-### My ublock filters
-```
-youtube.com##.ytp-fullscreen-grid-stills-container
-m.youtube.com##.ytFullscreenVideoRecommendationsHost
-youtube.com##:matches-path(/embed/) .ytFullscreenVideoRecommendationsHost
-```
+1. Download my [uBlock origin filters](https://raw.githubusercontent.com/SP4CEBARsystems/leechblock-configuration/refs/heads/main/ublock_origin_configuration/ublock-static-filters.txt)
+2. Install the [uBlock Origin](https://ublockorigin.com/) browser extention
+3. Open the extentions panel or open "manage extentions" (which is on [about:addons](about:addons) on browsers like Firefox) then look for uBlock Origin
+4. Go to uBlock's options, you may need to click on a `...` before you can see the `options` button to go there.
+5. Go to the my filters tab
+6. Click "Import and add"
+7. Upload the file you downloaded in step 1
+8. Click `Apply changes` to save
 
 ### Recommended
 - Install the [unhook](https://unhook.app/) or [untrap](https://untrap.app/) browser extention to block all other youtube recommendations.
