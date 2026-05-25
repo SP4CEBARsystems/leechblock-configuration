@@ -5,6 +5,7 @@
 *youtube.com/results?search_query=*spacex
 *youtube.com/results?search_query=*wai
 *youtube.com/results?search_query=*what+about+it
+*youtube.com/results?search_query=*Scott*Manley
 *youtube.com/results?search_query=*collin*furze
 *youtube.com/results?search_query=*hacksmith
 *youtube.com/results?search_query=*kurzgesagt
@@ -16,6 +17,13 @@
 *youtube.com/**list=PLrINjT-RUPlua6_3hJ9-O-_DZofWZ0yKl
 *youtube.com/**list=PLrINjT-RUPlu2LPrjnE9vBSgzV-01YemR
 *youtube.com/**list=PLrINjT-RUPlu7A2oDrMb8C4LFsf_9hKHN
+*youtube.com/@whataboutit
+*youtube.com/@corridorcrew
+*youtube.com/@collinfurze
+*youtube.com/@thehacksmith
+*youtube.com/@kurzgesagt
+*youtube.com/@veritasium
+*youtube.com/@scottmanley
 +*youtube.com/@FrontrunnersMinistries
 +*youtube.com/@ImpactVideoMinistries
 +*youtube.com/@JonathanShuttlesworth
@@ -24,6 +32,7 @@
 +*youtube.com/@rodneyhowardbrowne
 +*youtube.com/@RobertsLiardon
 +*youtube.com/@LivingWaters
++*youtube.com/@GoJesusGroup
 +*youtube.com/@SP4CEBAR
 +*youtube.com/channel/UCNtSJKxSW7GsohL8g3aN_Zg
 +music.youtube.com
