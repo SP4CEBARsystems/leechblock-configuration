@@ -1,4 +1,3 @@
-*youtube.com/@
 *youtube.com/channel/
 *youtube.com/results?search_query=*corridor+digital
 *youtube.com/results?search_query=*corridor+crew
@@ -6,7 +5,7 @@
 *youtube.com/results?search_query=*wai
 *youtube.com/results?search_query=*what+about+it
 *youtube.com/results?search_query=*Scott*Manley
-*youtube.com/results?search_query=*collin*furze
+*youtube.com/results?search_query=*colin*furze
 *youtube.com/results?search_query=*hacksmith
 *youtube.com/results?search_query=*kurzgesagt
 *youtube.com/results?search_query=*veritasium
@@ -19,7 +18,7 @@
 *youtube.com/**list=PLrINjT-RUPlu7A2oDrMb8C4LFsf_9hKHN
 *youtube.com/@whataboutit
 *youtube.com/@corridorcrew
-*youtube.com/@collinfurze
+*youtube.com/@colinfurze
 *youtube.com/@thehacksmith
 *youtube.com/@kurzgesagt
 *youtube.com/@veritasium
