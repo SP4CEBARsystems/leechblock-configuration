@@ -18,6 +18,7 @@
 +*youtube.com/shorts
 +*youtube.com/watch
 +*youtube.com/analytics
++*youtube.com/signin
 +*youtube.com/jubileeOosterhout
 +studio.youtube.com
 +music.youtube.com
